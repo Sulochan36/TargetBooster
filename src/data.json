@@ -1,0 +1,195 @@
+[
+    {
+        "id": "goal-123",
+        "title": "Learn React",
+        "startDate": "2025-04-28",
+        "targetDate": "2025-05-10",
+        "description": "Build a full React app",
+        "purpose": "To get good at React",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Watch tutorials",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Build a project",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-30"
+        ]
+    },
+
+    {
+        "id": "goal-124",
+        "title": "Master Python",
+        "startDate": "2025-04-25",
+        "targetDate": "2025-06-01",
+        "description": "Learn Python fundamentals and apply them in a project",
+        "purpose": "To improve coding skills and build projects with Python",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Complete Python basics course",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Build a Python project",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-28"
+        ]
+    },
+    {
+        "id": "goal-125",
+        "title": "Read 5 Books",
+        "startDate": "2025-04-01",
+        "targetDate": "2025-06-01",
+        "description": "Read and analyze 5 self-help books",
+        "purpose": "To expand knowledge and gain new perspectives",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Read 'Atomic Habits'",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Read 'The Power of Now'",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-28"
+        ]
+    },
+    {
+        "id": "goal-126",
+        "title": "Get Fit",
+        "startDate": "2025-04-10",
+        "targetDate": "2025-05-30",
+        "description": "Establish a regular fitness routine",
+        "purpose": "To improve health and physical fitness",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Go to the gym 3 times a week",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Track food intake",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-29"
+        ]
+    },
+    {
+        "id": "goal-127",
+        "title": "Start a Blog",
+        "startDate": "2025-04-18",
+        "targetDate": "2025-05-25",
+        "description": "Create and publish weekly blog posts on personal development",
+        "purpose": "To share knowledge and build an online presence",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Choose a blogging platform",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Write first blog post",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-28"
+        ]
+    },
+    {
+        "id": "goal-128",
+        "title": "Learn Spanish",
+        "startDate": "2025-04-15",
+        "targetDate": "2025-06-01",
+        "description": "Learn basic Spanish to communicate with native speakers",
+        "purpose": "To become conversational in Spanish",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Complete Duolingo lessons daily",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Have a conversation with a Spanish speaker",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-27"
+        ]
+    },
+    {
+        "id": "goal-129",
+        "title": "Save $5000",
+        "startDate": "2025-03-01",
+        "targetDate": "2025-09-01",
+        "description": "Set aside $5000 for emergency savings",
+        "purpose": "To improve financial security",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Create a budget",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Track monthly expenses",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-30"
+        ]
+    },
+    {
+        "id": "goal-130",
+        "title": "Develop a Morning Routine",
+        "startDate": "2025-04-20",
+        "targetDate": "2025-05-15",
+        "description": "Establish a productive and healthy morning routine",
+        "purpose": "To start the day with intention and focus",
+        "status": "Ongoing",
+        "checklist": [
+            {
+                "id": "task-1",
+                "text": "Wake up at 6:00 AM",
+                "done": true
+            },
+            {
+                "id": "task-2",
+                "text": "Meditate for 10 minutes",
+                "done": false
+            }
+        ],
+        "activity": [
+            "2025-04-30"
+        ]
+    }
+]
