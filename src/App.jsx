@@ -3,7 +3,7 @@ import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } 
 
 import Dashboard from './pages/Dashboard';
 import Goals from './pages/Goals.jsx';
-import Layout from './Layout/layout.jsx';
+import Layout from './Layout/Layout.jsx';
 import TodoLists from './pages/TodoLists.jsx';
 import Notes from './pages/Notes.jsx';
 import { GoalsProvider } from './GoalsContext';
