@@ -1,39 +1,46 @@
 # 🎯 Target Booster
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Frontend](https://img.shields.io/badge/Frontend-React-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js-green)
+![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Auth](https://img.shields.io/badge/Auth-JWT-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-A productivity-focused web app that helps users set, track, and reflect on their goals. Built as a personal full-stack project to explore goal-setting UX, backend integration, and future real-time collaboration.
+Target Booster is a productivity app focused on helping individuals track, set, and achieve their goals. The project is currently in development with a working frontend, and backend integration is in progress.
 
-## 🚀 Features
+## 🚀 Features (Current)
 
-- ✅ Add, edit, delete personal goals
-- ✅ User authentication (JWT-based login/register)
-- ✅ MongoDB-backed goal persistence
-- ✅ Toast notifications for quick feedback
-- ✅ Clean, responsive UI (React + TailwindCSS)
+- ✅ Add and view personal goals (React)
+- ✅ Responsive UI using TailwindCSS
+- ✅ Project roadmap and planning in place
 
-## 🔧 Tech Stack
+## 🔄 In Progress
 
-- **Frontend:** React, TailwindCSS, Axios
-- **Backend:** Node.js, Express.js
+- 🔐 Backend with Node.js, Express, MongoDB
+- 🧠 JWT-based user login/register
+- 📊 Analytics and AI-based goal suggestions
+- 🎯 Real-time collaboration tools (whiteboard, docs - future scope)
+
+## 🛠 Tech Stack (Planned)
+
+- **Frontend:** React, TailwindCSS
+- **Backend:** Node.js, Express
 - **Database:** MongoDB Atlas
-- **Authentication:** JWT
-- **Version Control:** Git & GitHub
-- **Deployment:** Render (backend), Vercel (frontend)
+- **Auth:** JWT
+- **Future:** OpenAI API, Socket.io
 
-## 📈 Project Roadmap
+## 📈 Roadmap
 
-- [x] Frontend layout and goal tracker
-- [x] MongoDB + Express backend integration
-- [x] JWT-based authentication
-- [ ] Real-time collaboration canvas (planned)
-- [ ] Markdown-style goal documentation
-
-
-## 📸 Screenshots
-
-_Coming soon..._
+- [x] Frontend goal input & layout
+- [ ] Backend CRUD for goals
+- [ ] Auth system (JWT)
+- [ ] Real-time collab canvas (planned)
+- [ ] Goal suggestions with AI (planned)
 
 ## 🔗 Live Demo
 
-[👉 Visit Target Booster](https://targetbooster.onrender.com)
+👉 [Live Site](https://targetbooster.onrender.com)
 
+## 👨‍💻 Author
 
+Made with ❤️ by [Sulochan Mahajan](https://sulochan-mahajan.vercel.app/)
