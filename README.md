@@ -4,7 +4,6 @@
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green)
 ![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![Auth](https://img.shields.io/badge/Auth-JWT-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Target Booster is a productivity app focused on helping individuals track, set, and achieve their goals. The project is currently in development with a working frontend, and backend integration is in progress.
 
